@@ -1,5 +1,6 @@
 # Lục bát generator that strictly follows the rules 
 Generating thơ lục bát (and other traditional kinds with rhyme and tone rules) using arbitrary LMs by customizing `huggingface`'s `generate` function. 
+
 Without custom logits processor:
 ```
 mùa hè nắng nóng oi nồng
